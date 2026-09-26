@@ -22,3 +22,4 @@ O projeto automatiza todo o tratamento dos dados comerciais através de um scrip
 3. **Carga e Visualização (Load & Output):**
    - Cálculo e agregação de indicadores de desempenho comercial (KPIs).
    - Exportação automática dos gráficos finais em formato `.png` para exibição direta.
+   
