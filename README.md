@@ -25,7 +25,7 @@ O projeto automatiza todo o tratamento dos dados comerciais através de um scrip
    - Exportação automática dos gráficos finais em formato `.png` para exibição direta.
    ## 🗄️ Módulo SQL e Gestão de Dados
 O projeto também inclui scripts em SQL estruturados para:
-- **DDL & DCL:** Criação de tabelas relacionais (`Vendas`, `Visitas`, `Vendedores`, `Filiais`, `Calendário`) e controlo de acessos/permissões.
+- **DDL & DCL:** Criação de tabelas relacionais (`Vendas`, `Visitas`, `Vendedores`, `Filiais`, `Calendário`) e controle de acessos/permissões.
 - **DML & Integração:** Inserção de dados e enriquecimento demográfico automatizado via **API do IBGE**.
 - **DQL (Business Intelligence Queries):** Consultas avançadas para responder a indicadores comerciais como conversão por filial, ranking YTD e projeções comerciais.
    
