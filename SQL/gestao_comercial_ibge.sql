@@ -1,5 +1,5 @@
 -- =====================================================================
--- PROJETO DE GESTÃO COMERCIAL - VENDAS, VISITAS E ENRIQUECIMENTO DOS DADOS DO IBGE NA BASE FILIAL
+-- PROJETO ANÁLISE COM SQL - VENDAS, VISITAS E ENRIQUECIMENTO DOS DADOS DO IBGE NA BASE FILIAL
 -- Módulo SQL: DDL, DML, DQL e DCL
 -- =====================================================================
 
